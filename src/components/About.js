@@ -80,7 +80,7 @@ const About = () => {
               </li>
             </ul>
             <div className="resume-button mt-30">
-              <a className="btn-main" href="#">
+              <a className="btn-main" href="marc_resume.pdf" download>
                 Download Resume
               </a>
             </div>
